@@ -1,0 +1,116 @@
+{
+    "NETFLIX": {
+      "categories": [ {"styleImg": "img-one", "name": "Accion", "img": "https://media.istockphoto.com/id/1171790951/es/foto/caos-en-el-puente-golden-gate.jpg?s=2048x2048&w=is&k=20&c=q6d7WaW4GtuzgwRDdTa9SLZ9ejx8cZDq8DlfROM-aGk="},
+                      {"styleImg": "img-two", "name": "Drama", "img": "https://media.istockphoto.com/id/520690051/es/foto/las-manos-del-hombre-tocando-la-violonchelo.jpg?s=2048x2048&w=is&k=20&c=ewGqm_U3zTacWz80hVHrxcSmNAtgmuidcHLLBbtq4tE="},
+                      {"styleImg": "img-three", "name": "Suspenso", "img": "https://media.istockphoto.com/id/1164677274/es/foto/silueta-de-horror-de-mujer-en-la-ventana-scary-concepto-de-halloween-silueta-borrosa-de-bruja.jpg?s=2048x2048&w=is&k=20&c=Q1AUA5Rnvl-g8T5cunH5l5rcvaGLxkUT6Lc-CuIQQAY="},
+                      {"styleImg": "img-four", "name": "Romance", "img": "https://media.istockphoto.com/id/499723481/es/foto/love.jpg?s=2048x2048&w=is&k=20&c=Z7JtLC3GWaMs8e15sRrdgRsugP2xiXUCBv3M2UEdCv8="},
+                      {"styleImg": "img-five", "name": "Comedia", "img": "https://media.istockphoto.com/id/1202870484/es/foto/gente-que-ve-pel%C3%ADculas-en-el-cine.jpg?s=2048x2048&w=is&k=20&c=hoIG1hVaeEtDEcCgIZ9adZnN5XmJwgm8k0C_JgCEW0E="},
+                      {"styleImg": "img-six", "name": "Terror", "img": "https://media.istockphoto.com/id/535240905/es/foto/scary-movie-que-sobserva-solo-en-casa.jpg?s=2048x2048&w=is&k=20&c=WpqWfSke_wHF2xvv-c5ss42MrC5yKvp7fZooYacXO8Q="}],
+      "películas": [
+        {
+          "identificador": 37565884,
+          "titulo": "El hombre de acero",
+          "Ano": "2019",
+          "clasificacion": "tv-13",
+          "category": "Accion",
+          "director": "*****",
+          "protagonistas": [
+            "henry cavill",
+            "amy adams"
+          ],
+          "descripcion": "Clark Kent recorre el mundo sin revelar sus poderes,pero cuando alguien amenaza la tierra, el entra en acción",
+          "class": "activity-one"
+        },
+        {
+          "identificador": 189282,
+          "titulo": "18 regalos",
+          "Ano": "2020",
+          "clasificacion": "TV-MA",
+          "category": "Drama",
+          "director": "Francesco Amato",
+          "protagonistas": [
+            "Vittoria Puccini",
+            "Benedetta Porcaroli",
+            "Edoardo Leo"
+          ],
+          "descripcion": "Una madre embarazada que padece cáncer terminal, deja 18 regalos para que su hija reciba en cada cumpleanos",
+          "class": "activity-two"
+        },
+        {
+          "identificador": 142393,
+          "titulo": "El hoyo",
+          "Ano": "2019",
+          "clasificacion": "TV-MA",
+          "category": "Suspenso",
+          "director": "***",
+          "protagonistas": [
+            "Iván Massague",
+            "Antonia San Juan",
+            "Zorion"
+          ],
+          "descripcion": "Una prisión vertical con una celda por nivel. Dos personas por celda. Una sola plataforma de alimentos y dos minutos por día para alimentar de arriba a abajo. Una pesadilla interminable atrapada en The Hole.",
+          "class": "activity-three"
+        },
+        {
+          "identificador": 948573,
+          "titulo": "Pasante de moda",
+          "Ano": "2015",
+          "clasificacion": "PG-13",
+          "category": "Romance",
+          "director": "Nancy Meyers",
+          "protagonistas": [
+            "Anna hathaway",
+            "Rene Russo"
+          ],
+          "descripcion": "El viudo de setenta anos, Ben Whittaker, descubrió que la jubilación no es todo loque parece ser. Aprovechando la oportunidad de volver al juego, se convierte en pasante  señor en un sitio de moda en línea, fundado y dirigido por Jules Ostin.",
+          "class": "activity-two"
+        },
+        {
+          "identificador": 345672,
+          "ttulo": "John Wick",
+          "Ano": "2017",
+          "clasificacion": "R",
+          "category": "Accion",
+          "director": "Chad Stahelski",
+          "protagonistas": [
+            "keanu Reeves",
+            "Common",
+            "Laurence"
+          ],
+          "descripcion": "Un ex sicario sale de su retiro para localizar a los mafiosos que mataron a su perro y le quitaron todo.",
+          "class": "activity-four"
+
+        },
+        {
+          "identificador": 598374,
+          "ttulo": "Guasón",
+          "Ano": "2019",
+          "clasificacion": "B15",
+          "category": "Comedia",
+          "director": "Todd Phillips",
+          "protagonistas": [
+            "Joaquin Phoenix",
+            "Robert De Niro",
+            "Zazie Beetz"
+          ],
+          "descripcion": "En Gotham City, el comediante con problemas mentales Arthur Fleck es ignorado y maltratado por la sociedad. Luego se embarca en una espiral descendente de revolución y crímenes sangrientos. Este camino lo pone cara a cara con su alter ego: el Joker.",
+          "class": "activity-one"
+        },
+        {
+          "identificador": 679456,
+          "ttulo": "El descenso",
+          "Ano": "2005",
+          "clasificacion": "R",
+          "category": "Suspenso",
+          "director": "Neil Marshall",
+          "protagonistas": [
+            "Shauna Macdonald",
+            " Natalie Mendoza",
+            "Alex Reid"
+          ],
+          "descripcion": "na mujer se va de vacaciones con sus amigos después de que su esposo y su hija encuentran un trágico accidente.Un ano después, ella va de excursión con sus amigos y quedan atrapados en la cueva.Con una falta de suministro,luchan por sobrevivir y se encuentran con extrañas criaturas sedientas de sangre.",
+          "class": "activity-one"
+        }
+      ]
+    }
+  }

@@ -1,0 +1,13 @@
+<div *ngFor="let cate of movie" class="day-and-activity" [ngClass]="cate.class">
+    <div class="day">
+      <h1>{{cate.Ano}}</h1>
+      <p>{{cate.clasificacion}}</p>
+    </div>
+    <div class="activity">
+      <h2>{{cate.titulo}}</h2>
+      <div class="participants">
+          <h5>{{cate.descripcion}}</h5>
+      </div>
+    </div>
+ 
+  </div>

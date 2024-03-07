@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "DisneyApp"
+    }
+  },
+  "defaultProject": "DisneyApp",
+  "cli": {
+    "analytics": false
+  }
 }

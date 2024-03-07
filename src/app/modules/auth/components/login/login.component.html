@@ -1,0 +1,23 @@
+
+<div class="login">
+    <div class="login-box">
+        <h2>Disney APP</h2>
+        <form autocomplete="off" [formGroup]="loginform">
+            <div class="user-box">
+                <input type="text" formControlName="email" required>
+                <label for="">Email</label>
+            </div>
+            <div class="user-box">
+                <input type="password" formControlName="password" required>
+                <label for="">Contraseña</label>
+            </div>
+            <a (click)="login()">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                Login
+            </a>
+        </form>
+    </div>
+</div> 
